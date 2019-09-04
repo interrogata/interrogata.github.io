@@ -2,5 +2,5 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/bio.jpg"
+  image: "/images/Interrogata_Logo_Web_1.png"
 ---
