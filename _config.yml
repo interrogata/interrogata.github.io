@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Graham Williamson"
+title                    : "Interrogata - Discovering and telling stories that matter"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Graham"
+description              : "Interrogata is a start up with the power of one - namely me, Graham.  It may become something bigger in the future, but for now it is about me discovering interesting stories in a world of data, and retelling those in a way that is interesting, infomrative, and leads to positive change"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
