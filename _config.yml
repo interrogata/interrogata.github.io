@@ -127,7 +127,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      "https://github.com/interrogata/"
+      "interrogata"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -300,4 +300,3 @@ defaults:
 values:
   layout: single
   author_profile: true
-  
