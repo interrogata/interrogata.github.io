@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Graham Williamson"
   avatar           : "/images/campfire.jpg"
-  bio              : "**Interrogata** is a start up with the power of one - namely me, Graham.  It may become something bigger in the future, but for now it is about me discovering interesting stories in a world of data, and retelling those in a way that is interesting, infomrative, and leads to positive change"
+  bio              : "**Interrogata** is a start up with the power of one - namely me, Graham.  It may become something bigger in the future, but for now it is about me discovering interesting stories in a world of data, and retelling those in a way that is interesting, informative, and leads to positive change"
   location         : "London"
   email            :
   links:
@@ -127,7 +127,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
